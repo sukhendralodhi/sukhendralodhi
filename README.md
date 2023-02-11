@@ -1,6 +1,6 @@
-#Hii 👋 My name is Sukhendra S Lodhi
+Hii 👋 My name is Sukhendra S Lodhi
 -----------------------------------
-Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.
+🧑‍💻 ##Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.
 As a fresher, I bring a strong drive to learn and grow in the industry.
 Excited to bring creativity and a desire to learn to any team.
 I have a passion for building user-friendly web experiences and am eager to grow my skills in the industry. 
