@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left">
+<p align="left" font-size="10px"
 <ul align="left">
   <li>Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.</li>
   <li>As a fresher, I bring a strong drive to learn and grow in the industry.</li>
