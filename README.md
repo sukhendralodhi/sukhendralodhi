@@ -6,6 +6,8 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+
 <ul align="left">
   <li>Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.</li>
   <li>As a fresher, I bring a strong drive to learn and grow in the industry.</li>
@@ -14,6 +16,7 @@
   <li>In my free time, you can find me tinkering with new technologies, reading about design, or watching fiction movies.</li>
   <li>Ready to take on new challenges and contribute to creating impactful projects.</li>
 </ul>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +32,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## 👨‍💻 Software and tools :
 
