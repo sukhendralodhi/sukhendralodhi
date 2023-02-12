@@ -3,12 +3,13 @@
 </br>
 
 <h1 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/fun-colorful-academic/700/Student_Icon_-_Illustration-256.png" width="100px"></br> Hii👋, I'm Sukhendra S Lodhi</h1>
-<h3 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br> Frontend Developer</h>
+<h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br> Frontend Developer</h2>
 
 </br>
 </br>
 
-- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+<h3><img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+</h3>
 
 </br>
 </br>
