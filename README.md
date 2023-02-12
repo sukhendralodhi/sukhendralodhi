@@ -6,7 +6,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" width="15px">
     I’m currently learning: Full-Stack Web-Development
     </h3>
-</hr> 
+<hr> 
 
 <h5 align="left" font-size="10px">
 <ul align="left">
