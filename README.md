@@ -2,6 +2,7 @@
 <img align="center" src="https://pbs.twimg.com/media/Fow16RUagAIqcTf?format=jpg&name=900x900" width="100%" height="250">
 <h1 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/fun-colorful-academic/700/Student_Icon_-_Illustration-256.png" width="100px"></br> Hii👋, I'm Sukhendra S Lodhi</h1>
 <h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br><img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"> Frontend Developer <img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"></h2>
+<hr> 
     <h3>
     <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" width="15px">
     I’m currently learning: Full-Stack Web-Development
@@ -21,7 +22,7 @@
 
 </br>
 </br>
-
+<hr> 
 
 <h3>
  <h4>Connect with me:</h4>
@@ -42,6 +43,7 @@
 </br>
 </br>
 
+<hr> 
 
 ## 🖥️ Languages and Tools :
 
@@ -58,7 +60,7 @@
 </br>
 </br>
 
-
+<hr> 
 
 
 ## 👨‍💻 Software and tools :
