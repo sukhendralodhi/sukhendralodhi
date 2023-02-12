@@ -7,7 +7,7 @@
 
 </br>
 
-<h3><img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+<h3><img width="15px" src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-07-256.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
 </h3>
 
 <h5 align="left" font-size="10px">
