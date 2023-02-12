@@ -24,16 +24,16 @@
 <h3>
  <h4>Connect with me:</h4>
  <a href="https://www.instagram.com/const_sanju/" target="blank">
-<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="insta icon" width="25px">
+<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="insta icon" width="50px">
 </a>
   <a href="https://www.linkedin.com/in/sukhendra-s-lodhi-71a985230/" target="blank">
-<img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-256.png" width="25px">
+<img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-256.png" width="50px">
 </a>
   <a href="https://twitter.com/SukhendraLodhi6" target="blank">
-<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="insta icon" width="25px">
+<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="insta icon" width="50px">
 </a>
   <a href="https://replit.com/@SukhendraLodhi" target="blank">
-<img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" alt="insta icon" width="25px">
+<img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" alt="insta icon" width="50px">
 </a>
 </h3>
 
