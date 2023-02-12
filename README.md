@@ -4,6 +4,8 @@
 <h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br> Frontend Developer</h2>
 
 </br>
+</br>
+</br>
 
   <h3><img width="25px" src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-07-256.png" alt="Terminal Icon" /> I’m     currently learning 🧑‍💻 **Full Stack Web-Development**
   </h3>
