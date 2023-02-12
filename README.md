@@ -2,8 +2,12 @@
 <img align="center" src="https://pbs.twimg.com/media/Fow16RUagAIqcTf?format=jpg&name=900x900" width="100%" height="250">
 <h1 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/fun-colorful-academic/700/Student_Icon_-_Illustration-256.png" width="100px"></br> Hii👋, I'm Sukhendra S Lodhi</h1>
 <h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br> Frontend Developer</h2>
-
-    <h3 align="center"><img src="https://cdn4.iconfinder.com/data/icons/open-line-5-0/200/programming-code-256.png" width="25px">I’m currently learning 🧑‍💻 Full Stack Web-Development</h3>
+    <h3>
+    
+<img align="center" src="https://cdn4.iconfinder.com/data/icons/open-line-5-0/200/programming-code-256.png" width="25px">
+    I’m currently learning 🧑‍💻 Full Stack Web-Development
+</h3>
+ 
 
 <h5 align="left" font-size="10px">
 <ul align="left">
