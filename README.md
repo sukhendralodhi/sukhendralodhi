@@ -4,7 +4,7 @@
 <h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br> Frontend Developer</h2>
     <h3>
     <img src="https://cdn4.iconfinder.com/data/icons/open-line-5-0/200/programming-code-256.png" width="25px">
-    I’m currently learning: Full Stack Web-Development
+    I’m currently learning: Full-Stack Web-Development
     </h3>
  
 
