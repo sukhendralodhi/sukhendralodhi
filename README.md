@@ -8,8 +8,10 @@
 </br>
 </br>
 
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
 
-
+</br>
+</br>
 
 <h5 align="left" font-size="10px">
 <ul align="left">
