@@ -22,6 +22,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3>
  <h4>Connect with me:</h4>
+ <a href="https://www.instagram.com/const_sanju/" target="blank">
+<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="insta icon" style="width:42px;height:42px;">
+</a>
 </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
