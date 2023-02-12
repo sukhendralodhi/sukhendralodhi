@@ -7,8 +7,8 @@
 
 
 <ol>
-  <li>🧑‍💻 Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.</li>
-  <li>🧑‍💻 As a fresher, I bring a strong drive to learn and grow in the industry.</li>
+  <li>🧑‍💻 ### Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.</li>
+  <li>🧑‍💻 ### As a fresher, I bring a strong drive to learn and grow in the industry.</li>
   <li>🧑‍💻 Excited to bring creativity and a desire to learn to any team.</li>
   <li>🧑‍💻 I have a passion for building user-friendly web experiences and am eager to grow my skills in the industry.</li>
   <li>🧑‍💻 In my free time, you can find me tinkering with new technologies, reading about design, or watching fiction movies.</li>
