@@ -5,7 +5,7 @@
 <h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br><img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"> Frontend Developer <img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"></h2>
 <hr> 
     <h3>
-    <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" width="15px">
+    <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" width="25px">
     I’m currently learning: Full-Stack Web-Development
     </h3>
 <hr> 
