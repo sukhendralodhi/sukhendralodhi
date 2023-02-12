@@ -24,7 +24,7 @@
 <hr> 
 
 <h3>
- <h4>Connect with me:</h4>
+ <h4><img src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/wechat_messenger_interface_media_social_logo-256.png" width="25px"> Connect with me:</h4>
  <a href="https://www.instagram.com/const_sanju/" target="blank">
 <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="insta icon" width="50px">
 </a>
