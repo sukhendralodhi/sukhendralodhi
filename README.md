@@ -20,10 +20,9 @@
 </ul>
 </h5>
 
-</br>
-</br>
 <hr> 
-
+</br>
+</br>
 <h3>
  <h4>Connect with me:</h4>
  <a href="https://www.instagram.com/const_sanju/" target="blank">
@@ -44,6 +43,8 @@
 </br>
 
 <hr> 
+</br>
+</br>
 
 ## 🖥️ Languages and Tools :
 
@@ -55,16 +56,14 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
 </br>
 </br>
 
 <hr> 
-
+</br>
+</br>
 
 ## 👨‍💻 Software and tools :
-
 <p>
 
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -77,6 +76,7 @@
 </br>
 </br>
 
-
+<hr>
 <p  align="center"><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="1000px"></p>
 
+<hr>
