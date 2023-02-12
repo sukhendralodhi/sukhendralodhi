@@ -6,7 +6,7 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="left" width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+###################################################################################
 
 <ul align="left">
   <li>Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.</li>
