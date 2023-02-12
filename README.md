@@ -6,8 +6,8 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-###################################################################################
 
+<p>
 <ul align="left">
   <li>Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.</li>
   <li>As a fresher, I bring a strong drive to learn and grow in the industry.</li>
@@ -16,6 +16,7 @@
   <li>In my free time, you can find me tinkering with new technologies, reading about design, or watching fiction movies.</li>
   <li>Ready to take on new challenges and contribute to creating impactful projects.</li>
 </ul>
+</p>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
