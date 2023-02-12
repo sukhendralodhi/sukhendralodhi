@@ -1,11 +1,9 @@
 
 
-<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="quote" width="800" height="200" border-radius="25px">
-
+![MasterHead]([https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80))
  
 <h1 align="center">Hi👋, I'm Sukhendra S Lodhi</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center">Frontend Developer</h>
 
 
 <ul>
