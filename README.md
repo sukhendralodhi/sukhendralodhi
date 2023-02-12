@@ -1,5 +1,5 @@
 
-<img align="center" src="https://images.unsplash.com/photo-1546443046-ed1ce6ffd1ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="1250" height="300">
+<img align="center" src="https://pbs.twimg.com/media/Fow16RUagAIqcTf?format=jpg&name=900x900" width="1250" height="300">
 <h1 align="center"> <img src="https://cdn4.iconfinder.com/data/icons/fun-colorful-academic/700/Student_Icon_-_Illustration-256.png" width="100px"></br> Hii👋, I'm Sukhendra S Lodhi</h1>
 <h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br> Frontend Developer</h2>
 
