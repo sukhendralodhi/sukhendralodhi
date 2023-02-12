@@ -5,7 +5,7 @@
 <h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br><img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"> Frontend Developer <img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"></h2>
 <hr> 
     <h3>
-    <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" width="25px">
+    <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" width="20px">
     I’m currently learning: Full-Stack Web-Development
     </h3>
 <hr> 
@@ -24,7 +24,7 @@
 <hr> 
 
 <h3>
- <h2><img src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/wechat_messenger_interface_media_social_logo-256.png" width="30px"> Connect with me:</h2>
+ <h2><img src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/wechat_messenger_interface_media_social_logo-256.png" width="25px"> Connect with me:</h2>
  <a href="https://www.instagram.com/const_sanju/" target="blank">
 <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="insta icon" width="50px">
 </a>
