@@ -6,10 +6,10 @@
 <h1 align="center">Hi👋, I'm Sukhendra S Lodhi</h1>
 <h3 align="center">Frontend Developer</h>
 
-- <img align="left"> width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
 
-- <img align="left"> width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/sukhendra-s-lodhi-71a985230/">**Sukhencdra S Lodhi**</a>
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/sukhendra-s-lodhi-71a985230/">**Sukhencdra S Lodhi**</a>
 
-- <img align="left"> width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **mpct5jan1998@Gmail.com**
+- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **mpct5jan1998@Gmail.com**
 
 
