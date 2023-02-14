@@ -41,7 +41,7 @@
 
 <hr>
 
-## 🖥️ Languages and Tools :
+## 🖥️ Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,7 +53,7 @@
 
 <hr> 
 
-## 👨‍💻 Software and tools :
+## 👨‍💻 Software and tools:
 <p>
 
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
