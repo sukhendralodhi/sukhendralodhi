@@ -2,17 +2,17 @@
 <img align="center" src="https://images.unsplash.com/photo-1561494653-744c43aed0c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1194&q=80" width="100%" height="350">
 <hr>
 <h1 align="center"> <img src="https://abhirajchatterjee.netlify.app/images/hello-transparent-2.gif" width="300px"></br> Hii <img src="https://cdn1.iconfinder.com/data/icons/hand-gestures-color/128/hand-wave-y-512.png" width="35px">, I'm Sukhendra</h1>
-<h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br><img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"> Frontend Developer <img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"></h2>
+<h2 align="center"><img src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-64.png" width="50px"> </br><img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"> MERN Stack Developer <img src="https://cdn0.iconfinder.com/data/icons/dev-coding-2/100/Curly_brackets-256.png" width="20px"></h2>
 <hr> 
     <h3>
     <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Visual_Code.png" width="20px">
-    I’m currently learning: Full-Stack Web-Development
+    Full-Stack Web-Development
     </h3>
 <hr> 
 
 <h5 align="left" font-size="10px">
 <ul align="left">
-  <li>Aspiring Front-End Developer with a strong foundation in HTML, CSS, and JavaScript.</li>
+  <li>MERN Stack Developer.</li>
   <li>As a fresher, I bring a strong drive to learn and grow in the industry.</li>
   <li>Excited to bring creativity and a desire to learn to any team.</li>
   <li>I have a passion for building user-friendly web experiences and am eager to grow my skills in the industry.</li>
